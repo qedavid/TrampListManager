@@ -41,7 +41,7 @@ SAND runs BattlEye, and this app stays well clear of it.
 
 ## Running it
 
-Download `TrampListManager.exe` from [Releases](https://github.com/UltimateSeeSharp/TrampListManager/releases)
+Download `TrampListManager.exe` from [Releases](https://github.com/qedavid/TrampListManager/releases)
 and run it. No installer, no .NET needed. It isn't code-signed, so SmartScreen will call it an
 unrecognised publisher — **More info → Run anyway**, or build it yourself:
 
